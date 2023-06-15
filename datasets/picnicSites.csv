@@ -1,0 +1,300 @@
+objectid,park_name,site_number,table_count,comments,data_source,lat,lng
+1,Belmont Grove ,1,10,West Fairmount Park- Belmont Grove Picnic Pavilion,"2017 Field Collection, Pictometry 2020",39.99252806272725,-75.21500343723882
+2,Franklin Delano Roosevelt Park,7,3,,"2018 Street Smart, Pictometry 2020",39.9034494458027,-75.18316312043147
+3,Franklin Delano Roosevelt Park,8,3,,"2018 Street Smart, Pictometry 2020",39.902252905522595,-75.1836174781935
+4,Franklin Delano Roosevelt Park,9,3,,"2018 Street Smart, Pictometry 2020",39.901883930510195,-75.18360769117928
+5,Franklin Delano Roosevelt Park,10,3,,2020 Street Smart,39.90126209555581,-75.18264723027977
+6,Franklin Delano Roosevelt Park,11,3,,"2017 Field Collection, Pictometry 2020",39.90134512223414,-75.18215939199408
+7,Franklin Delano Roosevelt Park,12,3,,"2017 Field Collection, Pictometry 2020",39.90161559732148,-75.18102183724226
+8,Franklin Delano Roosevelt Park,13,3,Non-fixed tables,"2018 Street Smart, Pictometry 2020",39.899627185220126,-75.17875169121585
+9,Franklin Delano Roosevelt Park,14,3,Non-fixed tables,NearMap 2021,39.89977729241938,-75.17846629339316
+10,Franklin Delano Roosevelt Park,20,3,,"2020 Street Smart, Pictometry 2020",39.90175299526535,-75.17629086626853
+11,Franklin Delano Roosevelt Park,18,3,,"2018 Street Smart, Pictometry 2020",39.90131881434162,-75.17628248978124
+12,Franklin Delano Roosevelt Park,19,3,,"2018 Street Smart, Pictometry 2020",39.9013759019535,-75.17718573783156
+13,Franklin Delano Roosevelt Park,15,3,Non-fixed tables,"2018 Street Smart, Pictometry 2020",39.899846879571164,-75.17798752444237
+14,Franklin Delano Roosevelt Park,16,3,Non-fixed tables,"2018 Street Smart, Pictometry 2020",39.89992790846095,-75.17763887568746
+15,Franklin Delano Roosevelt Park,17,3,Non-fixed tables,"2018 Street Smart, Pictometry 2020",39.90005337414432,-75.17710989867469
+16,Franklin Delano Roosevelt Park,21,3,,"2020 Street Smart, Pictometry 2020",39.9026076994476,-75.17569934597014
+17,Fernhill Park,1,4,Pavilion,"2017 Field Collection, PPR Buildings & Structures",40.020323038772574,-75.16696200190141
+18,Fernhill Park,2,4,Picnic Pavilion,"2017 Field Collection, PPR Buildings & Structures",40.01960428148805,-75.16899836999809
+19,Fernhill Park,3,3,Under trees,2017 Field Collection,40.019295688905935,-75.1695521656841
+20,Blue Bell Park,3,3,Wissahickon Valley Park,"2017 Field Collection, Pictometry 2020",40.032008210018965,-75.19581689424368
+21,Blue Bell Park,2,3,Wissahickon Valley Park,"2017 Field Collection, Pictometry 2020",40.031542629531685,-75.1954070874608
+22,Blue Bell Park,1,3,Wissahickon Valley Park - Blue Bell Pavilion,"Google Street View 2020, Pictometry 2020, NearMap 2021",40.03122566614615,-75.19524846931101
+23,Blue Bell Park,4,3,Wissahickon Valley Park,"2017 Field Collection, Pictometry 2020",40.030715951889235,-75.19494779212663
+24,Blue Bell Park,5,3,Wissahickon Valley Park,"2017 Field Collection, Pictometry 2020",40.030592482013766,-75.19522365835415
+25,Blue Bell Park,6,3,Wissahickon Valley Park,"2017 Field Collection, Pictometry 2020",40.030404387640516,-75.1951223304549
+26,David P Montgomery Field,1,2,,"2017 Field Collection, Pictometry 2020",40.022083218154435,-75.20333762812562
+27,Salvatore Pachella Memorial Field,1,4,"Under the pavilion; Located in Wissahickon Valley Park.",PPR Buildings and Structures,40.04579846856052,-75.21587505944953
+28,Wissahickon Valley Park,0,5,Valley Green Inn,"2017 Field Collection; 2018 Aerials",40.05345916649147,-75.21770135432514
+59,Pennypack Park,1,4,Verree Road Picnic Area,"2017 Field Collection; Google Globetrekker",40.08664444308568,-75.0615911319565
+60,Pennypack Park,2,4,Verree Road Picnic Area,"2017 Field Collection, Pictometry 2020",40.087469473839214,-75.06162759347728
+61,West Fairmount Park,5,1,North to Tugboat House at Belmont Landing,"2020 Street Smart, Pictometry 2020",39.98232606268611,-75.20524483347073
+62,Pennypack Park,3,3,Rhawn Street Picnic Area,"2017 Field Collection, Pictometry 2020",40.049933968083124,-75.0353336223084
+63,Pennypack Park,2,3,Rhawn Street Picnic Area,"2017 Field Collection, Pictometry 2020",40.04976415558818,-75.035726380494
+64,Pennypack Park,1,4,Rhawn Street Picnic Pavilion,"2017 Field Collection, Pictometry 2020",40.04954078054713,-75.03664690422086
+65,East Fairmount Park,1,3,N 33rd St and Cecil B Moore Ave,"Pictometry 2020, 2018 Street Smart",39.982050498711935,-75.18899249924786
+66,Pennypack Park,4,2,Rhawn Street Picnic Area,"2017 Field Collection, Pictometry 2020",40.04993004863029,-75.03337891707692
+67,Pennypack Park,5,3,Rhawn Street Picnic Area,"2017 Field Collection, Pictometry 2020",40.05030253492797,-75.03312135558679
+68,Pennypack on the Delaware,1,2,,"2017 Field Collection, Pictometry 2020",40.02680231166162,-75.0134415978078
+69,Pennypack on the Delaware,2,3,,"2017 Field Collection, Pictometry 2020",40.026896873247786,-75.01289197073403
+70,Pennypack on the Delaware,3,4,Non-fixed tables,NearMap 2021,40.02738452758125,-75.01208138490627
+71,Pennypack on the Delaware,5,2,,"2017 Field Collection, Pictometry 2020",40.027703842352246,-75.01212974414022
+72,Pennypack on the Delaware,4,2,,"2017 Field Collection, Pictometry 2020",40.02776203429123,-75.01140126191956
+73,Pennypack on the Delaware,6,1,,"2017 Field Collection, Pictometry 2020",40.02796178582665,-75.01135255193459
+74,Penn Treaty Park,1,3,,"2020 StreetSmart; NearMap 2021",39.96691225061935,-75.12839702821536
+75,Penn Treaty Park,2,3,,"2020 StreetSmart; NearMap 2021",39.96673948261278,-75.12839427850159
+76,Joseph E Mander Playground,0,7,,"Pictometry 2020, 2018 Street Smart",39.988878025206276,-75.18727115646776
+77,Cobbs Creek Park,1,3,N of Haverford Ave,"2018 Street Smart, Pictometry 2020",39.97291758502139,-75.25517986383656
+78,Cobbs Creek Park,2,3,N of Haverford Ave,"2018 Street Smart, Pictometry 2020",39.97303263514535,-75.25543794244588
+79,Cobbs Creek Park,4,3,N of Haverford Ave,"2018 Street Smart, Pictometry 2020",39.97382480630434,-75.25643539529865
+80,Cobbs Creek Park,3,3,N of Haverford Ave,"2018 Street Smart, Pictometry 2020",39.97328497274536,-75.25619007454388
+81,West Fairmount Park,4,3,Next to Kelly Pool,2020 Street Smart,39.978316348543885,-75.20765274690562
+82,West Fairmount Park,3,4,Next to Kelly Pool,2017 Field Collection,39.97845293861947,-75.20736562236385
+83,West Fairmount Park,2,4,Next to Kelly Pool,2020 Street Smart,39.978900629371736,-75.20704253076732
+84,East Fairmount Park,8,3,North to Lemon Hill,"2018 Street Smart, Pictometry 2020",39.9723856757768,-75.18726869122618
+85,East Fairmount Park,5,2,North of Lemon Hill Pavilion under trees.,NearMap 2021,39.97206685424485,-75.18783644733476
+86,East Fairmount Park,1,3,Lemon Hill Pavilion,2017 Field Collection,39.97173768535397,-75.18782649020848
+87,East Fairmount Park,6,3,North to Lemon Hill,"2018 Street Smart, Pictometry 2020",39.97237719960799,-75.18816550928501
+88,East Fairmount Park,7,3,North to Lemon Hill,"2018 Street Smart, Pictometry 2020",39.971733664221155,-75.18874099369413
+89,East Fairmount Park,2,3,North to Lemon Hill,"2017 Field Collection, Pictometry 2020",39.97136965293431,-75.18848418423504
+90,West Fairmount Park,4,3,West Fairmount Park-S of Belmont & Edgley Cricket Fields,2018 Street Smart,39.99472312605775,-75.21317070784906
+91,West Fairmount Park,3,3,West Fairmount Park-S of Belmont & Edgley Cricket Fields,2018 Street Smart,39.99465678601395,-75.21346836626242
+92,West Fairmount Park,2,1,West Fairmount Park-S of Belmont & Edgley Cricket Fields,2018 Street Smart,39.99450658451281,-75.21386902892466
+93,West Fairmount Park,1,3,West Fairmount Park-S of Belmont & Edgley Cricket Fields,2018 Street Smart,39.99434287249799,-75.21401052792629
+94,Chamounix Tennis Courts,0,2,Chamounix Tennis Courts Pavilion,2020 Street Smart,39.99926218603915,-75.20223038439131
+95,West Fairmount Park,1,5,West Fairmount Park-North Georges Hill Picnic Pavilion,2020 Street Smart,39.98707619649391,-75.22286509171934
+96,West Fairmount Park,2,3,West Fairmount Park-North Georges Hill Picnic Pavilion Area,"2020 StreetSmart; NearMap 2021",39.98666213239298,-75.22297878624086
+97,West Fairmount Park,4,1,North to Tugboat House at Belmont Landing,"2020 Street Smart, Pictometry 2020",39.98215030129358,-75.20526421707967
+98,West Fairmount Park,0,1,N of Boelson Cottage,"2018 Street Smart, Pictometry 2020",39.991312426627815,-75.20003038766961
+99,West Fairmount Park,0,1,N of Boelson Cottage,"2018 Street Smart, Pictometry 2020",39.990773903007394,-75.20067294624171
+100,West Fairmount Park,0,1,N of Boelson Cottage,"2018 Street Smart, Pictometry 2020",39.99054723110269,-75.20115890226529
+101,East Fairmount Park,2,3,N 33rd St and Cecil B Moore Ave,"Pictometry 2020, 2018 Street Smart",39.98308203382432,-75.18892308330587
+102,Joseph E Mander Playground,2,3,,"2020 StreetSmart;NearMap 2021",39.989770137061306,-75.18926703804014
+103,Joseph E Mander Playground,4,3,,"Pictometry 2020, 2018 Street Smart",39.990889124090046,-75.1893456830608
+104,Joseph E Mander Playground,3,2,,"Pictometry 2020, 2018 Street Smart",39.9918985428035,-75.1886337000252
+105,Belmont Plateau ,1,3,West Fairmount Park,"2018 Street Smart, Pictometry 2020",39.98840331146477,-75.21420213708488
+106,Belmont Plateau ,2,3,West Fairmount Park,"2017 Field Collection, Pictometry 2020",39.98889487857629,-75.21379142260864
+107,Belmont Plateau ,3,3,West Fairmount Park,"2018 Street Smart, Pictometry 2020",39.98883828341913,-75.21422438436446
+108,Belmont Plateau ,5,3,West Fairmount Park,"2017 Field Collection, Pictometry 2020",39.98844120788576,-75.21165213232986
+109,Belmont Plateau ,4,3,West Fairmount Park,"2017 Field Collection, Pictometry 2020",39.98864696624101,-75.2116228946679
+110,Belmont Plateau ,7,2,West Fairmount Park,"2018 Street Smart, Pictometry 2020",39.989905928604074,-75.21342537858055
+111,Cobbs Creek Park,1,3,Florence Ave and S 59th St,"2018 Street Smart, Pictometry 2020",39.93732001280017,-75.2342006191888
+112,Cobbs Creek Park,2,2,Florence Ave and S 59th St,"2018 Street Smart, Pictometry 2020",39.93757583895077,-75.23425550073571
+113,Whitby Avenue Playground,1,3,Located in Cobbs Creek Park,"2020 Street Smart; 2020 Pictometry",39.94098193660881,-75.23790600953467
+114,Whitby Avenue Playground,2,3,Located in Cobbs Creek Park,"2020 Street Smart; 2020 Pictometry",39.940746199670265,-75.23800104852597
+115,Whitby Avenue Playground,4,3,Located in Cobbs Creek Park,"2017 Field Collection, Pictometry 2020",39.94074978362706,-75.23852409473993
+116,Whitby Avenue Playground,3,3,Located in Cobbs Creek Park,"2017 Field Collection, Pictometry 2020",39.94059631876979,-75.23825639098602
+117,Robert Wilson III Park,2,1,,"2018 Street Smart, Pictometry 2020",39.94309736178054,-75.24585112655105
+118,Robert Wilson III Park,1,3,,"2018 Street Smart, Pictometry 2020",39.943576257168125,-75.24605913197038
+119,Rufus O Williams Memorial Playground,1,3,,"2017 Field Collection, Pictometry 2020",39.95068898543329,-75.25000094290179
+120,Rufus O Williams Memorial Playground,2,3,,"2020 StreetSmart;NearMap 2021",39.9500545690086,-75.24991694485912
+121,Cobbs Creek Park,1,2,North to Cobbs Creek Community Environmental Center,"2020 Street Smart, Pictometry 2020",39.95399533360845,-75.24884470590554
+122,Cobbs Creek Park,2,3,North to Cobbs Creek Community Environmental Center,"2020 Street Smart, Pictometry 2020",39.95383778497762,-75.24888729443236
+123,Cobbs Creek Park,3,3,North to Cobbs Creek Community Environmental Center,"2020 Street Smart, Pictometry 2020",39.95358292015652,-75.24891004104673
+124,Cobbs Creek Park,4,2,North to Cobbs Creek Community Environmental Center,"2020 Street Smart, Pictometry 2020",39.95326565954326,-75.24946102081847
+125,Johnny Sample Recreation Center,2,2,,NearMap 2021,39.95774344753429,-75.24950431680944
+126,Johnny Sample Recreation Center,3,3,,"2018 Street Smart, Pictometry 2020",39.95860475451527,-75.24791129029134
+127,Johnny Sample Recreation Center,4,3,,"2018 Street Smart, Pictometry 2020",39.95883260211799,-75.2477757638251
+128,West Fairmount Park,2,2,West Fairmount Park-South George's Hill Picnic Area,"2018 Street Smart, Pictometry 2020",39.984690333284114,-75.21913904775376
+129,West Fairmount Park,3,3,West Fairmount Park-South George's Hill Picnic Area,"2018 Street Smart, Pictometry 2020",39.984846391664284,-75.22081600568814
+130,Bartrams Garden,0,3,East to Bartram's Garden Barn,2020 Pictometry,39.93270183643999,-75.21166695285639
+131,West Fairmount Park,1,5,West Fairmount Park-South George's Hill Picnic Pavilion,2018 Street Smart,39.98487918038155,-75.21958736962787
+132,West Fairmount Park,4,3,West Fairmount Park-South George's Hill Picnic Area,"2018 Street Smart, Pictometry 2020",39.984384181603275,-75.21829327710284
+133,Belmont Grove,2,10,West Fairmount Park- Belmont Grove Picnic Pavilion,"2017 Field Collection, Pictometry 2020",39.99191365299804,-75.21542866798252
+134,West Fairmount Park,1,6,Martin Luther King Drive Stone Picnic Pavilion,"2020 Street Smart, Pictometry 2020",40.00176870165891,-75.19306347390322
+135,West Fairmount Park,3,3,Martin Luther King Drive Stone Picnic Pavilion Area,"2020 Street Smart, Pictometry 2020",40.00154492269746,-75.19316094191248
+136,West Fairmount Park,2,2,Martin Luther King Drive Stone Picnic Pavilion Area,"2020 Street Smart, Pictometry 2020",40.001479524593684,-75.19294102730234
+137,East Fairmount Park,3,3,North to Lemon Hill,"2017 Field Collection, Pictometry 2020",39.97132723805099,-75.1864077905218
+138,East Fairmount Park,4,3,North to Lemon Hill,"2017 Field Collection, Pictometry 2020",39.97173068036738,-75.18695307336343
+139,Cobbs Creek Park,5,3,N of Haverford Ave,"2018 Street Smart, Pictometry 2020",39.97371194092225,-75.25698097082743
+140,East Fairmount Park,9,3,South to Sedgley Porter's House,"Pictometry 2020, 2017 Field Collection",39.973488539242794,-75.18801467730697
+29,Wissahickon Valley Park,2,2,"N of Wises Mill Rd, along Forbidden Drive.",2017 Field Collection,40.05887518223775,-75.2204400102079
+30,Wissahickon Valley Park,0,2,N of Rex Avenue Shelter,"2017 Field Collection, Pictometry 2020",40.06640700959495,-75.22068723549285
+31,Wissahickon Valley Park,0,1,S of Thomas Mill Road Comfort Station,2020 Aerials,40.071299073198034,-75.22462052314825
+32,Wissahickon Valley Park,0,1,N of Thomas Mill Dr,2017 Field Collection,40.07308389503201,-75.22474199642845
+33,Wissahickon Valley Park,2,4,Wissahickon Valley Park-Northwestern Stables,"2017 Field Collection, Pictometry 2020",40.08432886867368,-75.22931437195915
+34,Wissahickon Valley Park,3,4,Wissahickon Valley Park-Northwestern Stables,"2017 Field Collection, Pictometry 2020",40.08415883535595,-75.22974279478613
+35,Wissahickon Valley Park,1,3,Wissahickon Valley Park-Northwestern Stables,"2017 Field Collection, Pictometry 2020",40.08479947488104,-75.22985987242285
+36,Wissahickon Valley Park,0,4,Wigard Avenue House,"2018 Street Smart, Pictometry 2020",40.053618917587826,-75.22503270264143
+37,Wisters Woods Park,1,3,,"2018 Street Smart, Pictometry 2020",40.03181079423645,-75.1547728551995
+38,Wisters Woods Park,2,3,,"2018 Street Smart, Pictometry 2020",40.032412198414974,-75.15539755364607
+39,Wisters Woods Park,3,2,,"2018 Street Smart, Pictometry 2020",40.0333678629584,-75.15548273859652
+40,Awbury Park and Recreation Center,2,2,,"2017 Field Collection, Pictometry 2020",40.052273579371544,-75.16355586368645
+41,Awbury Park and Recreation Center,3,2,,"2018 Street Smart, Pictometry 2020",40.05230547308364,-75.1632760768893
+42,Awbury Park and Recreation Center,1,3,,"2017 Field Collection, Pictometry 2020",40.05195066709723,-75.16317105147027
+43,Fisher Park,1,5,Non-fixed tables,NearMap 2021,40.04303997508602,-75.13087768849634
+44,Fisher Park,2,3,,Pictometry 2020,40.04293545238396,-75.13109083060577
+45,Burholme Park,2,5,Non-fixed tables,NearMap 2021,40.06918721559774,-75.08927609238786
+46,Burholme Park,3,1,Non-fixed tables,NearMap 2021,40.06947091151838,-75.08969439958518
+47,Burholme Park,1,10,,"2017 Field Collection; Pictometry 2020",40.067057188474784,-75.089218232259
+48,Burholme Park,4,3,Non-fixed tables,"2017 Field Collection; NearMap 2021",40.06970296969792,-75.09126915993053
+49,Burholme Park,5,3,Non-fixed tables,"2017 Field Collection; NearMap 2021",40.06994807740324,-75.09186542356686
+50,Hunting Park,6,5,Numbered site both sides of walkway,"2020 StreetSmart; NearMap 2021",40.01699415377401,-75.14353890747485
+51,Hunting Park,0,3,Near the baseball field,"2020 StreetSmart; NearMap 2021",40.01711450586271,-75.14331243179754
+52,Hunting Park,2,3,,"2018 Street Smart, Pictometry 2020",40.0169390781613,-75.1450887924268
+53,Hunting Park,3,2,,"2018 Street Smart, Pictometry 2020",40.017294609763965,-75.14578182034188
+54,Hunting Park ,1,5,Hunting Park Picnic Pavilion,"2018 Street Smart, Pictometry 2020",40.015620422734564,-75.1445757954438
+55,Hunting Park,4,2,,"2018 Street Smart, Pictometry 2020",40.01584366282817,-75.14288158894936
+56,West Fairmount Park,1,2,Next to Kelly Pool,"2020 Street Smart, Pictometry 2020",39.97915676061185,-75.20719967174932
+57,West Fairmount Park,0,1,Next to Cedar Grove,"2018 Street Smart, Pictometry 2020",39.97892371311944,-75.20456535819245
+58,Cobbs Creek Park,1,3,Close to Blue Bell Tavern,"2018 Street Smart, Pictometry 2020",39.91749080027702,-75.2461454624268
+170,Rainbow De Colores Playground,0,2,,"2018 NaturePHL, 2018 Street Smart, Pictometry 2020",39.98679562601218,-75.14154365021007
+171,Rainbow De Colores Playground,0,1,,"2018 NaturePHL, 2018 Street Smart, Pictometry 2020",39.98695212869186,-75.14187389957593
+172,John Dickinson Square,0,3,,"2018 NaturePHL, 2016 Google Map, Pictometry 2020",39.92778632154709,-75.15187733306979
+173,East Poplar Playground,0,2,,"2018 NaturePHL, NearMap2021",39.96663508406296,-75.15126939698875
+174,Fishtown Recreation Center,0,5,,"2020 StreetSmart;NearMap 2021",39.972016162861344,-75.12778409877778
+175,Eileen Fitzpatrick Playground,0,1,,NearMap 2021,40.096313094428375,-74.97186416770417
+176,Ford Road Playground,0,2,1 table on path and 1 table under the gazebo.,2020 Street Smart and 2020 NearMap,39.999433554191434,-75.20642556401297
+177,Fort Mifflin,0,16,,Pictometry 2020,39.875169025001384,-75.2114557603636
+178,Fox Chase Recreation Center,0,5,,"2018 NaturePHL, 2018 Street Smart, Pictometry 2020",40.07417290905007,-75.08250337946154
+179,Frankford and Solly Playground,0,1,,"2018 NaturePHL, Pictometry 2020",40.043988169299716,-75.02094784554629
+180,Franklin Square,0,6,,"2018 NaturePHL, 2017 Google Map, Pictometry 2020",39.95543677941933,-75.15078549744224
+181,Franklin Square,0,5,,"2018 NaturePHL, 2017 Google Map, Pictometry 2020",39.955932706230726,-75.1510492883223
+182,Susan Gorgas Park,0,1,,"2020 StreetSmart;NearMap 2021",40.036944108060126,-75.22049410337637
+183,Thomas I Guerin Recreation Center,0,3,,"2018 NaturePHL, 2017 Google Map, Pictometry 2020",39.92335470275951,-75.17280860289549
+184,Eric W (Hank) Gathers Jr Recreation Center,0,3,,"2018 NaturePHL, 2017 Google Map, Pictometry 2020",39.98742698720379,-75.1758189156207
+185,Eric W (Hank) Gathers Jr Recreation Center,0,2,,"2018 NaturePHL, Pictometry 2020",39.987590754937834,-75.1747983477085
+186,Hawthorne Cultural Center,0,4,,"2018 NaturePHL, 2018 Street Smart",39.93848295450207,-75.16363641435568
+187,Nelson M Herron Playground and Recreation Center,0,5,,NearMap 2021,39.930583778938015,-75.14847690843379
+188,Horton Street Play Lot,0,2,,"2018 NaturePHL, 2018 Street Smart, Pictometry 2020",39.96626884446822,-75.24323772574834
+189,Inn Yard Park,0,1,,"Pictometry 2020, 2018 NaturePHL, 2018 Street Smart",40.009217707747474,-75.19507898623742
+190,Kingsessing Recreation Center,0,1,,"2018 NaturePHL, 2017 Google Map, Pictometry 2020",39.94185807426277,-75.21732708862595
+191,Lardners Point Park,0,2,,"2018 NaturePHL, Pictometry 2020",40.01422427501639,-75.04784659605305
+192,Lardners Point Park,0,2,,"2018 NaturePHL, Pictometry 2020",40.01419736650236,-75.04759466492516
+193,Lardners Point Park,0,2,,"2018 NaturePHL, Pictometry 2020",40.01470715601889,-75.04648421716699
+194,John A Lee Cultural Center,0,3,,NearMap 2021,39.96224879697709,-75.2102763091137
+195,Louis I Kahn Park,0,4,Fixed tables,"2020 StreetSmart; 2021 NearMap",39.945111343621896,-75.15998838934148
+196,Lovett Park,0,9,,NearMap 2021,40.05635513696187,-75.18762968150752
+197,Lovett Park,0,4,,"2018 NaturePHL, 2018 Street Smart, Pictometry 2020",40.05684663124368,-75.18783836365287
+198,Malcolm X Memorial Park,0,1,Fixed Table,"2020 Street Smart, Pictometry 2020",39.9530552227429,-75.22555909667396
+199,Mantua Community Garden,0,2,,"2018 NaturePHL, 2018 Street Smart, Pictometry 2020",39.9635481618656,-75.19185431114151
+200,Mario Lanza Park,0,2,Non-fixed picnic tables.,NearMap 2021,39.93733007584737,-75.14727912319142
+201,Dr Martin Luther King Jr Recreation Center,0,2,,"2018 NaturePHL, 2017 Google Map, Pictometry 2020",39.980564920883374,-75.16980106535092
+202,Max Myers Playground,0,3,,Pictometry 2020,40.03933514017071,-75.07123978228665
+203,Mifflin Square,0,3,,"2018 NaturePHL, 2018 Street Smart, Pictometry 2020",39.918984165950846,-75.15670966626399
+204,Mount Airy Playground,0,2,,"2018 NaturePHL, Pictometry 2020",40.0576814926327,-75.18833466719204
+205,Mount Airy Playground,0,2,,"2018 NaturePHL, Pictometry 2020",40.0575971990891,-75.1876291462282
+206,Mount Airy Playground,0,1,,"2018 NaturePHL, Pictometry 2020",40.05766602969325,-75.18802178776397
+207,Fish Hatchery at Pleasant Hill Park,0,2,,"2018 NaturePHL, Pictometry 2020",40.0427638499947,-74.99314760888538
+208,Fish Hatchery at Pleasant Hill Park,0,4,,"2018 NaturePHL, Pictometry 2020",40.04314924920451,-74.99300415106269
+209,Hawthorne Cultural Center,0,6,Ridgway Park/Pool is considered a park of Hawthorne Cultural Center.,Pictometry 2020,39.93896292679836,-75.16462485574054
+210,Charles A Russo Playground,0,2,,Pictometry 2020,40.030142639745335,-75.0343562241594
+211,William H (Billy) Markward Memorial Playground,0,3,,"2018 NaturePHL, 2018 Street Smart",39.94781522922052,-75.1833689981312
+212,William H (Billy) Markward Memorial Playground,0,6,,"2018 NaturePHL, 2016 Google Map",39.948070155130296,-75.18308509737362
+213,Haddington-Marshall L Shepard Sr Recreation Center,0,11,,"2018 NaturePHL, Pictometry 2020",39.96689962016928,-75.23440525541662
+214,Thomas B Smith Recreation Center,0,2,,Pictometry 2020,39.925920707657305,-75.18699646006574
+215,Starr Garden Playground,0,2,Non-fixed picnic tables.,Street Smart 2020,39.94268971040786,-75.152770951411
+216,Torresdale and Enfield Fields,0,3,,"2018 NaturePHL, 2018 Street Smart, Pictometry 2020",40.03881864019905,-75.02068435737641
+217,Triangle Park,0,2,,"2018 NaturePHL, 2018 Street Smart",39.98353275454204,-75.23178487293102
+218,Ernest L Tustin Recreation Center,0,4,,"2018 NaturePHL, 2018 Street Smart, Pictometry 2020",39.982105216041866,-75.24119264457156
+219,Vernon Park,0,3,,"2018 NaturePHL, Pictometry 2020",40.03575469671135,-75.17696331099104
+220,Verree and Susquehanna Playground,0,5,,"2018 NaturePHL, 2018 Street Smart, Pictometry 2020",40.080792246198506,-75.0672262977702
+221,Parkside Evans Recreation Center,0,5,,"2018 NaturePHL, 2018 Street Smart, Pictometry 2020",39.98219650488739,-75.22629039443243
+222,West Mill Creek,0,2,,"2018 NaturePHL, 2018 Street Smart, Pictometry 2020",39.967006158924455,-75.2224279998287
+223,Wissahickon Environmental Center,0,3,Non-fixed picnic tables sw of the house.,NearMap 2021,40.08091019407432,-75.23425628847214
+224,Wissahickon Environmental Center,0,2,Non-fixed picnic tables near fire pit,NearMap 2021,40.08132091895188,-75.23439057355522
+225,Wissahickon Environmental Center,0,1,Non-fixed table,2018 NaturePHL,40.081323012199576,-75.23400263307005
+226,Wissinoming Park,0,12,,Pictometry 2020,40.02449687991979,-75.0693678706666
+227,Woodside Park,0,1,,NearMap 2021,40.002323097090766,-75.20896807053177
+228,William Lanier Park,0,5,,Pictometry 2020,39.93342868262924,-75.19402665913351
+229,Stenton Park,0,2,,"Pictometry 2020, Capital Plans",40.024335995865435,-75.15266997330366
+230,Stenton Park,0,2,,"Pictometry 2020, Capital Plans",40.02401297719081,-75.15251997905293
+231,Fernhill Park,0,1,,2020 Street Smart,40.016071150032985,-75.17012598866415
+232,Disston Recreation Center,0,3,Installed during renovations 11/2019.,"Pictometry 2020, NearMap 2020",40.027983597453726,-75.04405775736731
+233,Garland and Bingham Fields,0,2,,Pictometry 2020,40.034244630855554,-75.11046891695824
+234,Mount Airy Playground,0,2,,"2018 NaturePHL, Pictometry 2020",40.05766330373475,-75.18770702384722
+235,Mount Airy Playground,0,2,,"2018 NaturePHL, Pictometry 2020",40.05775802443692,-75.18848077627622
+236,Water Tower Recreation Center,0,2,,Pictometry 2020,40.075869632944034,-75.20045815617426
+237,Water Tower Recreation Center,0,2,,Pictometry 2020,40.075358729771956,-75.20046743214354
+238,Corporal George J Reed Jr Memorial Playground,0,2,,Pictometry 2020,40.00275426272734,-75.13321415989391
+239,Stephen E Fotterall Square,0,4,,NearMap 2021,39.98960832425705,-75.15098511822062
+240,37th and Mount Vernon Playground ,0,2,,Pictometry 2020,39.96402650001221,-75.19644756231733
+241,East Fairmount Park,0,2,N 33rd St and Cecil B Moore Ave,Pictometry 2020,39.982367744086005,-75.18933384587562
+242,Clarence H Clark Park,0,1,,Pictometry 2020,39.94785265323404,-75.21089366880457
+243,Clarence H Clark Park,0,1,,Pictometry 2020,39.94774823361305,-75.21077714691023
+244,Clarence H Clark Park,0,1,,Pictometry 2020,39.94709689579134,-75.20928612486496
+245,Cobbs Creek Park,0,1,North to Cobbs Creek Community Environmental Center,Pictometry 2020,39.95341276627037,-75.24935421780927
+246,Bartrams Garden,0,2,North to Bartram's Garden Greenhouse 3,Pictometry 2020,39.930636794344956,-75.21343282472785
+247,Bartrams Garden,0,9,North to Bartram's Garden Greenhouse 3,Pictometry 2020,39.93041827409467,-75.2135982828577
+248,Bartrams Garden,0,1,East to Bartram's Garden Farm Shed,Pictometry 2020,39.93041599182729,-75.21340886071971
+249,Jacob Stinger Park,0,2,,Pictometry 2020,39.936423116122334,-75.1973904335459
+250,Thomas B Smith Recreation Center,0,2,,Pictometry 2020,39.92586819620428,-75.18679730075573
+251,Thomas B Smith Recreation Center,0,1,,Pictometry 2020,39.92626243048451,-75.18720538487183
+252,Thomas B Smith Recreation Center,0,1,,Pictometry 2020,39.92620974156562,-75.18730546408783
+253,Thomas B Smith Recreation Center,0,1,,Pictometry 2020,39.92623096923018,-75.18753850051515
+254,Thomas I Guerin Recreation Center,0,2,,"2018 NaturePHL, 2017 Google Map, Pictometry 2020",39.92324936748868,-75.17272528198484
+255,Frank Palumbo Sr Park,0,2,,Pictometry 2020,39.93924462044602,-75.15567159557517
+256,Franklin Square,0,5,,Pictometry 2020,39.955743131972035,-75.15000438959069
+257,Shot Tower Recreation Center,0,2,,Pictometry 2020,39.93486940145658,-75.1463822543125
+258,Victor J Moss Memorial Field,0,4,Installed 10/2019 during renovations.,Pictometry 2020,40.01599990984507,-75.06277503642534
+259,Karen Donnelly Park,0,3,Installed between 2008-2010,"Cyclomedia 2020; Pictometry 2020",39.92907425145628,-75.14936407165621
+260,Bartrams Garden,0,4,Non-fixed picnic tables near the boat launch,NearMap 2021,39.933364360850426,-75.20848982046887
+261,Bartrams Garden,0,1,In the Sankofa Community Farm,Pictometry 2020,39.93102073278925,-75.21340711572343
+262,Bartrams Garden,0,3,To the east of the Sankofa Community Farm,Pictometry 2020,39.93024691962171,-75.2125034601388
+263,Roberto Clemente Playground,0,1,,Pictometry 2020,39.96561680342947,-75.16753095810766
+264,Pennypack on the Delaware,0,1,Along the Baxter Trail west of bridge. ,Pictometry 2020,40.03298619148022,-75.00782961054003
+265,Pine Road Picnic Shelter,0,,Picnic Shelter unable to see number of tables from aerials,PPR_Properties,40.08843939678442,-75.06749912053837
+266,Pennypack Park,0,5,Located next to the Pennypack Environmental Education Center,Pictometry 2020,40.08778656971788,-75.05928638997553
+267,Wissahickon Valley Park,0,4,Located next to Valley Green Inn,Pictometry 2020,40.05436879212199,-75.21823817098911
+268,Wissahickon Valley Park,0,3,"Located at Monastery Stables; Non-fixed tables.",Pictometry 2020,40.03664430023603,-75.20447716546917
+269,Glen Foerd on the Delaware,0,3,Located to the north of the Carriage House and Water Tower,Pictometry 2020,40.05312450998247,-74.98024078690742
+270,Pennypack Park,0,2,"Located at the Pegasus Riding Academy; Non-Fixed tables",Pictometry 2020,40.06685601277311,-75.05049805370749
+271,Pennypack Park,0,1,"Solly Stables Campus Location; Non-Fixed tables",Pictometry 2020,40.07280953551572,-75.068768482581
+272,Verree and Susquehanna Playground,0,1,Fixed table underneath the tree.,"2020 Pictometry, 2020 Street Smart",40.08049267107942,-75.06752123148712
+273,Pennypack Park,0,1,"Non-Fixed Table next to fire pit, just south of the Pine Road Picnic Shelter",Pictometry 2020,40.08819621495269,-75.06772356010929
+274,Pennypack Park,0,5,Mix of Fixed and Non-Fixed Tables at the Pine Road Trailhead Parking Lot,Pictometry 2020,40.08970264618895,-75.06884762397621
+275,Burholme Park,0,5,Fixed tables around the playgrounds,NearMap 2021,40.068975498339256,-75.09009568927094
+276,Fox Chase Farm,0,25,"Non-Fixed Tables related to Fox Chase Farm , may not be publicly accessible.",NearMap 2020,40.09026947779425,-75.07488325375098
+277,Fox Chase Farm,0,5,"Non-Fixed Tables related to Fox Chase Farm , may not be publicly accessible. Behind the Manor House",NearMap 2020,40.09077794982589,-75.07392205610013
+278,Ann P Nichols Park,0,2,Non-Fixed Tables,NearMap 2020,39.963598207946966,-75.22953292455273
+279,John J McCreesh Sr Playground,0,4,Renovated during 2020 Site Upgrades. Mix of fix and non-fixed tables.,Capital and Communications 2020,39.92563194125308,-75.24067052285373
+280,Gold Star Park,0,2,"2 fixed tables (1 standard, 1 ADA)",Capital and Communications Info 2020,39.93288925219609,-75.15507856640177
+281,Historic Rittenhouse Town,0,7,7 Non-Fixed Tables located near Rittenhouse Building 211.,NearMap2020/Pictometry 2020,40.029063857042644,-75.1919757396993
+282,Hancock Playground,0,2,Rebuild Site Renovations in 2020. Fixed Tables.,"Capital 2021, NearMap 2020",39.972402636827866,-75.13721954001427
+283,Hancock Playground,0,3,Rebuild Site Renovations in 2020. Fixed Tables.,"Capital 2021, NearMap 2020",39.97275948992646,-75.13740113522518
+284,Miles Mack Playground,,5,5 fixed tables installed in 2021,NearMap2021,39.96720099145039,-75.19608747998157
+285,8th and Diamond Playground,,5,"2 fixed picnic tables, 3 smaller game tables; Installed 2020-2021 (Rebuild)","Capital Drawings 2021;NearMap 2021",39.983322855407785,-75.14727771322544
+286,Fox Chase Farm,0,4,"Non-Fixed Tables related to Fox Chase Farm , may not be publicly accessible.",NearMap 2021,40.09038301738696,-75.0739650088454
+287,Fisher Park,0,3,Non-fixed tables,NearMap 2021,40.04355188239663,-75.13068801399726
+288,Carmella DiTizio Playground,0,5,,NearMap 2021,40.01115904471476,-75.07319581281239
+289,Dr Martin Luther King Jr Recreation Center,0,3,,NearMap 2021,39.98033904128274,-75.16941869777541
+290,Columbus Square,,6,,NearMap 2021,39.93295916166709,-75.16439459567347
+291,Jacob Stinger Park,,3,,NearMap 2021,39.93598531885194,-75.19822121861516
+292,Marie Dendy Recreation Center,,2,,NearMap 2021,39.975206664569725,-75.1511344715391
+293,Benson Park,,4,,NearMap 2021,39.97356853967676,-75.14311564243437
+294,Von Colln Field,,4,,NearMap 2021,39.9638095262565,-75.1762185897108
+295,Carousel House Recreation Center,0,3,Non-fixed tables,NearMap 2021,39.97854638133063,-75.21283372236523
+296,Woodside Park,0,1,,NearMap 2021,40.00221773313201,-75.20834962170377
+297,Carousel House Recreation Center,0,2,Non-fixed tables,NearMap 2021,39.97948895751866,-75.21359774315334
+298,Jacob Stinger Park,0,2,,NearMap 2021,39.93648029150554,-75.19776051744236
+299,East Fairmount Park,0,1,Along Schuylkill River Trail and Kelly Drive ,NearMap 2021,39.9901721509558,-75.19739842112261
+141,West Fairmount Park,4,3,Martin Luther King Drive Stone Picnic Pavilion Area,"2020 Street Smart, Pictometry 2020",40.002182869894966,-75.19307362692656
+142,West Fairmount Park,5,3,Martin Luther King Drive Stone Picnic Pavilion Area,"2020 Street Smart, Pictometry 2020",40.00252052329987,-75.1930639772177
+143,West Fairmount Park,3,3,West Fairmount Park-North Georges Hill Picnic Pavilion Area,NearMap 2021,39.987581507287466,-75.22228062652471
+144,West Fairmount Park,0,1,N of Boelson Cottage,"2018 Street Smart, Pictometry 2020",39.99303066948801,-75.19795386996807
+145,West Fairmount Park,0,1,N of Boelson Cottage,"2018 Street Smart, Pictometry 2020",39.99260511995081,-75.19835341890268
+146,West Fairmount Park,0,1,West Fairmount Park-S of Belmont & Edgley Cricket Fields,2018 Street Smart,39.99420443176856,-75.21324437933607
+147,29th and Chalmers Playground,0,7,Van R. Thomas Memorial Picnic Area,"2018 NaturePHL, Pictometry 2020",39.99853983530233,-75.17909126381304
+148,45th and Sansom Tot Lot,0,1,,"2018 NaturePHL, 2017 Google Map, Pictometry 2020",39.95613236483964,-75.21186566675561
+149,48th and Woodland Playground,0,2,,"2018 NaturePHL, 2018 Street Smart, Pictometry 2020",39.94139445195178,-75.21033149077591
+150,48th and Woodland Playground,0,2,,Pictometry 2020,39.94230515992853,-75.2101886105218
+151,Allens Lane Art Center,0,2,,Pictometry 2020,40.051698173372664,-75.20259624614481
+152,Allens Lane Art Center,0,3,,Pictometry 2020,40.05125895528876,-75.20333349878092
+153,Fletcher B Amos Playground,0,4,,"2018 NaturePHL, 2018 Street Smart, Pictometry 2020",39.982052008962995,-75.16006672717191
+154,Athletic Recreation Center,0,3,,"2018 NaturePHL, 2018 Street Smart, Pictometry 2020",39.97814632950558,-75.17857874149354
+155,Giuseppe Bardascino Park,0,3,,"2020 Street Smart, NearMap 2021",39.937835946705945,-75.15992258526403
+156,Campbell Square,0,2,,"2018 NaturePHL, NearMap2021",39.98578983432325,-75.10362311523426
+157,Campbell Square,0,2,,"2018 NaturePHL, NearMap2021",39.98598555815984,-75.10361269932022
+158,Campbell Square,0,2,,"2018 NaturePHL, NearMap2021",39.98630766400635,-75.10328310042443
+159,Campbell Square,0,2,,"2018 NaturePHL, NearMap2021",39.98623318342775,-75.10343383386845
+160,Carousel House Recreation Center,0,7,Non-fixed tables,"Pictometry 2020, 2018 NaturePHL, 2018 Imagery",39.97902178397637,-75.21267080206266
+161,Carroll Park,0,1,,"2018 NaturePHL, Pictometry 2020",39.970854520626474,-75.23632748713295
+162,Carroll Park,0,1,,"2018 NaturePHL, Pictometry 2020",39.97130196731744,-75.23660279603091
+163,Cecil B Moore Recreation Center,0,1,,"2018 NaturePHL, 2018 Street Smart, Pictometry 2020",39.994177524733615,-75.16769781572
+164,Corporal Jimmy OConnor Memorial Playground,0,2,Formerly Chalfont Playground,"2018 NaturePHL, Pictometry 2020",40.07949123459234,-74.97462204457177
+165,Charles H Chew Jr Playground,0,2,,"2018 NaturePHL, 2018 Street Smart, Pictometry 2020",39.93781769198442,-75.17401701976061
+166,Clarence H Clark Park,0,12,"Count can change, since tables are not fixed.","2018 NaturePHL, 2016 Google Map, Pictometry 2020",39.94898035173633,-75.20984765786655
+167,Clayborne and Lewis Playground,0,4,,"Pictometry 2020, 2018 NaturePHL, 2017 Google Map",39.973644914969555,-75.1990185783011
+168,Cloverly Park,0,1,,"2018 NaturePHL, 2018 Street Smart, Pictometry 2020",40.02555107989831,-75.18072724702449
+169,Jose Manuel Collazo Park,0,2,,"2018 NaturePHL, 2018 Google Map, Pictometry 2020",39.99958275455475,-75.1304966947294

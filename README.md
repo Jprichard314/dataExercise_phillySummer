@@ -17,7 +17,7 @@ Data exercise preparation using OpenData Philly datasets.
   - Heat Vulnerability by Census Tract
     - https://opendataphilly.org/datasets/heat-vulnerability-by-census-tract/
   - Census Tract
-    - https://opendataphilly.org/datasets/city-council-districts/
+    - 
  
  
  # We'll also have to join the council district data to the Sprayground / Picnic Sites / 
